@@ -1,6 +1,6 @@
 <h1>Impact of Federal Pandemic Unemployment Compensation on Individual Decision to Work: Complex Models</h1>
 
- ### [Research Paper](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b7baf35e-0d8a-4b8c-afe4-708335f2057e)
+ ### [Research Paper](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:6f3ad0af-fb67-3d1b-a952-258b2a52c475)
 
 <h2>Description</h2>
 My research focuses on expanding previous findings from our group research. I will begin by researching how the effect of the FPUC2 policy on hours varies by gender. We can answer this question using gender as the moderating variable and keeping all other variables the same. Expanding on the triple DID model from the group paper, I will switch the dependent variable from the binary variable: future employment to the continuous variable: future hours of work. I will also analyze more complex models, such as Heckprobit and Mulitnomial Logit in relation to individual decision to work. As my individual project closely aligns with the group project, I recommend you read the literature review in the introduction section of the group paper. This will help give background to my goals in my research along with the additions that this research provides to current literature.
